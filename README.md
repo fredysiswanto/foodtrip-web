@@ -36,6 +36,11 @@ Go to the Starting Page
 
 <code>http://localhost/foodtrip-web/</code>
 
+## note
+
+- if your api use deferent port, you can update this file `public\assets\js\common.js | apiURL`
+- show/hide a error deprecated massage `index.php | line 70`
+
 ## Some Screenshots
 
 Landing Page
